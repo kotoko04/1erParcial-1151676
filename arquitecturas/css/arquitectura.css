@@ -59,4 +59,24 @@
 }
 
 /*Cuerpo de la Pagina sección 1 */
-
+.cuerpo1{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+}
+.cuerpo2{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+}
+.cuerpo3{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+}
+.s1, .s2, .s3{
+    width: 32%;
+}
+.cuerpo1 img, .cuerpo2 img, .cuerpo3 img{
+    width: 100%;
+}

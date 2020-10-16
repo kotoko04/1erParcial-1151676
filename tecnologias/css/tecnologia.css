@@ -1,0 +1,88 @@
+/*Cuerpo de la Pagina sección1*/
+
+.cuerpo1
+{
+    width: 100%;
+    display: flex;
+}
+
+.info
+{
+    width: 50%;
+    margin-left: 15px;
+    justify-content: center;
+}
+
+.img
+{
+    width: 50%;
+    padding-right: 10px;
+}
+
+.img1
+{
+    width: 100%;
+    padding-right: 10px;
+}
+
+.info h1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.info p
+{
+    font-size: 15pt;
+    text-align: justify;
+    padding-right: 15px;
+    padding-bottom: 25px;
+}
+   
+/*Fin de la Pagina sección1*/
+
+/*Cuerpo de la Pagina sección2*/
+
+.cuerpo2
+{
+    width: 100%;
+    display: flex;
+}
+
+.img_2
+{
+    width: 50%;
+    padding-left: 10px;
+}
+
+.info2
+{
+    width: 50%;
+    margin-right:15px;
+    margin-left: 10px;
+    justify-content: center;
+}
+
+.img2
+{
+    width: 100%;
+}
+
+.info2 h1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+.info2 p
+{
+    font-size: 15pt;
+    text-align: justify;
+    padding-bottom: 25px;
+    margin-left: 10px;
+}
+
+/*Fin de la Pagina sección2*/
